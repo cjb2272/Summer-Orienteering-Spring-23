@@ -1,6 +1,13 @@
-###
+# intellij
 /.idea
-
 SummerOrienteering.iml
 
+# some old notes
 /src/Main/notes.txt
+
+# System specific files
+.DS_Store
+Thumbs.db
+
+# the launch.json config file
+.vscode/
